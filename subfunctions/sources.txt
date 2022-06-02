@@ -1,0 +1,20 @@
+Script sources and dependencies for feature calculation 
+
+*Higuchi1Dn credited to Luke Rankine, 2004
+
+Entropy script measures are credited to and available here:
+Jesús Monge-Álvarez (2022). A set of Entropy measures for temporal series (1D signals) (https://www.mathworks.com/matlabcentral/fileexchange/50289-a-set-of-entropy-measures-for-temporal-series-1d-signals), MATLAB Central File Exchange. 
+* Shannon entropy (SE).
+* Approximate entropy (ApEn).
+* Sample entropy (SampEn).
+* Fuzzy entropy (FuzzyEn).
+* Permutation entropy (PermEn).
+
+*Lempel-Ziv, binary_seq_to_string 
+Quang Thai (2022). calc_lz_complexity (https://www.mathworks.com/matlabcentral/fileexchange/38211-calc_lz_complexity), MATLAB Central File Exchange..
+
+*Hurst exponent
+Bill Davidson, 2003
+
+%CWT 
+Colin McCrimmon (2022). cmccrimm/Continuous-Wavelet-Transform (https://github.com/cmccrimm/Continuous-Wavelet-Transform), GitHub.
