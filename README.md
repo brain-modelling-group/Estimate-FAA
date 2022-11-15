@@ -16,4 +16,4 @@ MATLAB, tested on versions 2020b and 2022a
 
 If our scripts are used to inform your work, please cite us: 
 
-Iyer, K.K., Leitner, U., Giordano, V. et al. Bedside tracking of functional autonomic age in preterm infants. Pediatr Res (2022). https://doi.org/10.1038/s41390-022-02376-2
+Iyer, K.K., et al. Bedside tracking of functional autonomic age in preterm infants. Pediatr Res (2022). https://doi.org/10.1038/s41390-022-02376-2
